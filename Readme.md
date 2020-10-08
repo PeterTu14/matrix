@@ -1,4 +1,4 @@
 #This is Alpine Linux with cmatrix
 
 ## Running the Container
-docker container run -it ptutka/matrix:0.1
+docker container run -it ptutka/matrix
